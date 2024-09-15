@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Servet Akcadag</h1>
 <h3 align="center">MERN Full Stack Project: Build a Blog App with Dashboard using MERN (jwt, redux toolkit)</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:servet.akcadag@outlook.com</h3>
 <p align="left">
 </p>
 
